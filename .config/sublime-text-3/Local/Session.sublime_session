@@ -1,0 +1,588 @@
+{
+	"folder_history":
+	[
+		"/home/robin/projects",
+		"/home/robin/.builds/dotfiles",
+		"/home/robin/projects/blogger"
+	],
+	"last_version": 3083,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ala",
+						"alphabet_loop_points"
+					],
+					[
+						"enc",
+						"encrypted_text"
+					],
+					[
+						"en",
+						"encrypted_text"
+					],
+					[
+						"total_char",
+						"total_characters_nospaces"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 468.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					]
+				],
+				"width": 540.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/robin/.config/bspwm/bspwmrc",
+				"/home/robin/.config/compton/compton.conf",
+				"/home/robin/.config/bspwm.old/bspwmrc",
+				"/home/robin/.conkyrc",
+				"/home/robin/.config/tint2/tint2rc",
+				"/home/robin/conkyrc",
+				"/home/robin/.builds/dotfiles/.config/tint2/default.tint2rc",
+				"/etc/profile",
+				"/home/robin/.config/tint2/tint2confrc",
+				"/home/robin/.config/tint2/default.tint2rc",
+				"/usr/bin/bspwm-session",
+				"/home/robin/.builds/dotfiles/.config/bspwm/autostart",
+				"/home/robin/.builds/dotfiles/.config/tint2/tint2rc",
+				"/home/robin/.builds/dotfiles/.config/bspwm/bspwmrc",
+				"/home/robin/.builds/dotfiles/.config/sxhkd/sxhkdrc",
+				"/home/robin/.config/tint2/tint2r",
+				"/home/robin/projects/ruby-building-blocks/ceaser_cipher_spec.rb",
+				"/home/robin/projects/ruby-building-blocks/ceaser-cipher.rb",
+				"/home/robin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/robin/.config/sxhkd/sxhkdrc",
+				"/home/robin/.config/sublime-text-3/Packages/Monokai.tmTheme",
+				"/home/robin/projects/ceaser-cipher/ceaser-cipher.rb",
+				"/home/robin/.gtkrc-2.0",
+				"/home/robin/.gtkrc-2.0.mine",
+				"/home/robin/.ftkrc-2.0.mine",
+				"/home/robin/.Xresources",
+				"/home/robin/projects/beginning-ruby/text-analyzer/summarize.rb",
+				"/home/robin/projects/beginning-ruby/text-analyzer/test.rb",
+				"/home/robin/projects/beginning-ruby/text-analyzer/analyzer.rb",
+				"/home/robin/.Xresources.old",
+				"/home/robin/projects/beginning-ruby/text-analyzer/summerize.rb",
+				"/home/robin/.conkyrc.old",
+				"/home/robin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/robin/.bin/panel_battery.sh",
+				"/home/robin/projects/beginning-ruby/text-analyzer/text.txt",
+				"/home/robin/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/robin/projects/odin/test-first-ruby/04_pig_latin/pig_latin_spec.rb",
+				"/home/robin/projects/odin/test-first-ruby/04_pig_latin/pig_latin.rb",
+				"/home/robin/.config/sublime-text-3/Packages/Tomorrow Night - Eighties.tmTheme",
+				"/home/robin/projects/odin/google-homepage/index.html",
+				"/home/robin/projects/odin/etch-a-sketch/etch.html",
+				"/home/robin/.Xdefaults",
+				"/home/robin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/robin/.vim/colors/tomorrow-night.vim",
+				"/home/robin/.vim/colors/Tomorrow-Night-Bright.vim",
+				"/home/robin/.vim/colors/Tomorrow-Night-Eighties.vim",
+				"/home/robin/.config/sublime-text-3/Packages/User/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Ubuntu Mono",
+					"font",
+					"max",
+					"active",
+					"100",
+					"font",
+					"touchpad",
+					"height",
+					"alphabet_loop_points",
+					"end_of_alphabet",
+					"start_of_alphabet",
+					"shift_factor",
+					"total_characters",
+					"10",
+					"scro"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ubuntu mono bold",
+					"end_of_alphabet_lower",
+					"start_of_alphabet_lower",
+					"key",
+					"character_count"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 92.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 338.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ala",
+						"alphabet_loop_points"
+					],
+					[
+						"enc",
+						"encrypted_text"
+					],
+					[
+						"en",
+						"encrypted_text"
+					],
+					[
+						"total_char",
+						"total_characters_nospaces"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/robin/projects/ruby-building-blocks/ceaser_cipher.rb",
+					"settings":
+					{
+						"buffer_size": 1367,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/robin/projects/ruby-building-blocks/stock_picker.rb",
+					"settings":
+					{
+						"buffer_size": 176,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 540.0,
+				"last_filter": ":w",
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":",
+						":w - Save"
+					]
+				],
+				"width": 718.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/robin/projects",
+				"/home/robin/projects/blogger",
+				"/home/robin/projects/ruby-building-blocks"
+			],
+			"file_history":
+			[
+				"/home/robin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/robin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/robin/.config/compton/compton.conf",
+				"/home/robin/.config/tint2/tint2rc",
+				"/home/robin/.config/bspwm/bspwmrc",
+				"/home/robin/.config/bspwm.old/bspwmrc",
+				"/home/robin/.conkyrc",
+				"/home/robin/conkyrc",
+				"/home/robin/.builds/dotfiles/.config/tint2/default.tint2rc",
+				"/etc/profile",
+				"/home/robin/.config/tint2/tint2confrc",
+				"/home/robin/.config/tint2/default.tint2rc",
+				"/usr/bin/bspwm-session",
+				"/home/robin/.builds/dotfiles/.config/bspwm/autostart",
+				"/home/robin/.builds/dotfiles/.config/tint2/tint2rc",
+				"/home/robin/.builds/dotfiles/.config/bspwm/bspwmrc",
+				"/home/robin/.builds/dotfiles/.config/sxhkd/sxhkdrc",
+				"/home/robin/.config/tint2/tint2r",
+				"/home/robin/projects/ruby-building-blocks/ceaser_cipher_spec.rb",
+				"/home/robin/projects/ruby-building-blocks/ceaser-cipher.rb",
+				"/home/robin/.config/sxhkd/sxhkdrc",
+				"/home/robin/.config/sublime-text-3/Packages/Monokai.tmTheme",
+				"/home/robin/projects/ceaser-cipher/ceaser-cipher.rb",
+				"/home/robin/.gtkrc-2.0",
+				"/home/robin/.gtkrc-2.0.mine",
+				"/home/robin/.ftkrc-2.0.mine",
+				"/home/robin/.Xresources",
+				"/home/robin/projects/beginning-ruby/text-analyzer/summarize.rb",
+				"/home/robin/projects/beginning-ruby/text-analyzer/test.rb",
+				"/home/robin/projects/beginning-ruby/text-analyzer/analyzer.rb",
+				"/home/robin/.Xresources.old",
+				"/home/robin/projects/beginning-ruby/text-analyzer/summerize.rb",
+				"/home/robin/.conkyrc.old",
+				"/home/robin/.bin/panel_battery.sh",
+				"/home/robin/projects/beginning-ruby/text-analyzer/text.txt",
+				"/home/robin/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+				"/home/robin/projects/odin/test-first-ruby/04_pig_latin/pig_latin_spec.rb",
+				"/home/robin/projects/odin/test-first-ruby/04_pig_latin/pig_latin.rb",
+				"/home/robin/.config/sublime-text-3/Packages/Tomorrow Night - Eighties.tmTheme",
+				"/home/robin/projects/odin/google-homepage/index.html",
+				"/home/robin/projects/odin/etch-a-sketch/etch.html",
+				"/home/robin/.Xdefaults",
+				"/home/robin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/robin/.vim/colors/tomorrow-night.vim",
+				"/home/robin/.vim/colors/Tomorrow-Night-Bright.vim",
+				"/home/robin/.vim/colors/Tomorrow-Night-Eighties.vim",
+				"/home/robin/.config/sublime-text-3/Packages/User/User/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 48.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"font_color",
+					"Ubuntu Mono",
+					"font",
+					"max",
+					"active",
+					"100",
+					"font",
+					"touchpad",
+					"height",
+					"alphabet_loop_points",
+					"end_of_alphabet",
+					"start_of_alphabet",
+					"shift_factor",
+					"total_characters",
+					"10",
+					"scro"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ubuntu mono bold",
+					"end_of_alphabet_lower",
+					"start_of_alphabet_lower",
+					"key",
+					"character_count"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/robin/projects"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/robin/projects/ruby-building-blocks/ceaser_cipher.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1367,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										712,
+										712
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/robin/projects/ruby-building-blocks/stock_picker.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 176,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										176,
+										176
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 48.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,25,50,2515,1395,2560,1440",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 338.0,
+			"status_bar_visible": false,
+			"template_settings":
+			{
+			},
+			"window_id": 7,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,63 @@
+Xft.dpi: 132
+
+! urxvt
+URxvt*loginShell: true
+URxvt*geometry: 90x24
+URxvt*font: xft:ubuntu mono:size=11
+URxvt*boldFont: xft:ubuntu mono:style:size=11
+URxvt*depth: 32
+URxvt*borderless: 1
+URxvt*scrollBar: false
+URxvt*saveLines: 5000
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+URxvt*letterSpace: 0 
+URxvt.internalBorder: 16
+URxvt.iso14755: False
+
+URxvt.perl-ext-common: default,tabbed,clipboard
+! default copy/paste: ctrl+alt+c/v
+
+!MISC
+urxvt*cursorColor:      	#ff5555
+urxvt*colorBD:          	#FFFFFF
+urxvt*colorUL:			#FFFF99
+URxvt*underlineColor:    	#9999FF
+
+!TABBAR COLORS
+URxvt.tabbed.tabbar-fg: 15
+URxvt.tabbed.tabbar-bg: -1
+URxvt.tabbed.tab-fg:    -1
+URxvt.tabbed.tab-bg:   10
+
+! COLORS - visibone alt. 2
+URxvt*background:        [65]#000000
+URxvt*foreground:        [100]#cccccc
+URxvt*cursorColor:       #999999
+URxvt*colorBD:           #ffffff
+URxvt*colorUL:           #ffff99
+
+!BLK
+URxvt*color0:           #666666
+URxvt*color8:           #999999
+!RED
+URxvt*color1:          #CC6699
+URxvt*color9:          #FF99CC
+!GRN
+URxvt*color2:           #99CC66
+URxvt*color10:         #CCFF99
+!YEL
+URxvt*color3:          #CC9966
+URxvt*color11:         #FFCC99
+!BLU
+URxvt*color4:          #6699CC
+URxvt*color12:         #99CCFF
+!MAG
+URxvt*color5:           #9966CC
+URxvt*color13:          #CC99FF
+!CYN
+URxvt*color6:          #66CC99
+URxvt*color14:         #99FFCC
+!WHT
+URxvt*color7:          #CCCCCC
+URxvt*color15:         #FFFFFF
