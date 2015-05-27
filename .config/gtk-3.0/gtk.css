@@ -1,5 +1,0 @@
-@define-color ubuntu_orange #fb9167;
-
-TerminalWindow .notebook tab:active {
-    background-color: shade(@ubuntu_orange,1.1);
-}
